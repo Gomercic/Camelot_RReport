@@ -128,6 +128,8 @@ Na temelju toga je napravljen graf - Graph daily activity
 
 Citate: Gomerčić, T., I. Topličanec, M. Sindičić, V. Šimunović (2024): ........
 
+GitHub: <https://github.com/Gomercic/Camelot_RReport>
+
 Contact: tomislav.gomercic\@vef.unizg.hr
 
 University of Zagreb, Faculty of Veterinary Medicine, Zagreb, Croatia
