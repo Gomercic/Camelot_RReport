@@ -118,7 +118,7 @@ Animals were determined as *adults* if no other information (*subadult* or *juve
 
 <br>
 
-Citate: Gomerčić, T., I. Topličanec, M. Sindičić, V. Šimunović (2024): ........
+Citate: Gomerčić, T., I. Topličanec, V. Šimunović, M. Sindičić (2024): Camelot RReport – free web application for analysing camera trap data. Journal of Vertebrate Biology 73, 24056. 1-3, <https://doi.org/10.25225/jvb.24056>{target="_blank"}
 
 GitHub: <https://github.com/Gomercic/Camelot_RReport>
 
